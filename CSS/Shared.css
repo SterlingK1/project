@@ -147,7 +147,7 @@ section {
     HOME SECTION STYLES
 -------------------------------------------------*/
 #home {
-    background: url(../Thumb/Background-photo.jpg) no-repeat 50% 50%;
+    background: url(Users\Sterling\OneDrive\GitHub/project\images\Thumb\Background-photo.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -209,7 +209,7 @@ section {
     background-color: #f5f3f3;
 }
 
-.resorvation {
+.reservation {
     width: 60%;
     padding: 10px;
     border-radius: 8px;
@@ -218,7 +218,7 @@ section {
     box-shadow: -1px -1px 1px 0 rgba(0, 0, 0, 1), 1px 2px 10px 0 rgba(0, 0, 0, 0.5);
 }
 
-.resorvation h2 {
+.reservation h2 {
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -228,7 +228,7 @@ section {
     word-spacing: 0pt;
 }
 
-.resorvation h2 span {
+.reservation h2 span {
     width: 70%;
     text-align: center;
     margin: 0 auto;
@@ -273,6 +273,7 @@ section {
     border-bottom: 2px solid #423549;
     border-left: 1px solid #090B0D;
     margin: 10px 1em;
+    border-radius: 7px;
     background: #13161B;
     box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
     font-family: 'Raleway', sans-serif;
